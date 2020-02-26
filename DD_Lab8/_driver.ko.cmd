@@ -1,0 +1,1 @@
+cmd_/home/anush-raghavender/DD/Lab_8/driver.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/anush-raghavender/DD/Lab_8/driver.ko /home/anush-raghavender/DD/Lab_8/driver.o /home/anush-raghavender/DD/Lab_8/driver.mod.o ;  true

@@ -1,0 +1,1 @@
+ssmtp skarthik4231@gmail.com < email.txt
